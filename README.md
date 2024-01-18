@@ -15,3 +15,7 @@ The following are the objectives of this project:
 * To predict whether the crop is alive or damaged by pesticides or damaged by some other reason.
 * To recommend which crop should be cultivated in their lands according to their soil fertility.
 * To provide the farmers a user friendly front end to use this model and use them for their harvest prediction and crop recommendation.
+
+## NOTE:
+* test.csv and train.csv belong to Harvest py files
+* crop.csv belongs to what_crop_to_grow.py file
